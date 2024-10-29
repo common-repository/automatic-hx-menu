@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automatic Hx Menu\n"
+"POT-Creation-Date: 2021-09-01 13:46+0200\n"
+"PO-Revision-Date: 2021-09-01 13:46+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: automatichxmenu.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: automatichxmenu.php:265
+msgid "Table of Contents"
+msgstr "Sommaire de l’article"
+
+#: automatichxmenu.php:577
+msgid "Presentation"
+msgstr "Présentation"
+
+#: automatichxmenu.php:581 automatichxmenu.php:635 automatichxmenu.php:830
+msgid "Main settings"
+msgstr "Réglages"
+
+#: automatichxmenu.php:587 automatichxmenu.php:653
+msgid "Collapse"
+msgstr "Replier"
+
+#: automatichxmenu.php:592 automatichxmenu.php:666 automatichxmenu.php:1160
+#: automatichxmenu.php:1171 automatichxmenu.php:1195
+msgid "Numbering"
+msgstr "Numérotation"
+
+#: automatichxmenu.php:597 automatichxmenu.php:682 automatichxmenu.php:969
+msgid "Display"
+msgstr "Affichage"
+
+#: automatichxmenu.php:604
+msgid "Support the project"
+msgstr "Soutenir le projet"
+
+#: automatichxmenu.php:606
+msgid "Donate"
+msgstr "Faire un don"
+
+#: automatichxmenu.php:615
+msgid "What is this plugin for ?"
+msgstr "À quoi sert cette extension ?"
+
+#: automatichxmenu.php:616
+msgid ""
+"This extension allows to integrate a menu of navigation inside your articles/"
+"pages. It is based on the titles found in the article/page."
+msgstr ""
+"Cette extension vous permet d’intégrer un menu de navigation à l’intérieur "
+"de vos article/pages. Il est construit à partir des titres trouvés dans les "
+"articles/pages."
+
+#: automatichxmenu.php:617
+msgid ""
+"This means that you have to tag your articles/pages with heading tags "
+"<code>&lt;h1&gt;&lt;/h1&gt;</code>, <code>&lt;h2&gt;&lt;/h2&gt;</code>, and "
+"so on."
+msgstr ""
+"Cela signifie que vous devez marquer vos articles/pages avec balises de "
+"titres <code>&lt;h1&gt;&lt;/h1&gt;</code> , <code>&lt;h2&gt;&lt;/h2&gt;</"
+"code> , et ainsi de suite."
+
+#: automatichxmenu.php:619
+msgid "Choose your mode of operation"
+msgstr "Choisissez votre mode de fonctionnement"
+
+#: automatichxmenu.php:620
+msgid ""
+"This extension allows to integrate a menu of navigation inside your articles/"
+"pages :"
+msgstr ""
+"Cette extension permet d’intégrer un menu de navigation à l’intérieur de vos "
+"articles/pages :"
+
+#: automatichxmenu.php:622
+msgid "Automatically for all your articles according to the defined settings."
+msgstr "Automatiquement pour tous vos articles selon les paramètres définis."
+
+#: automatichxmenu.php:623
+msgid ""
+"Manually by inserting the shortcode <code>[automatichxmenu]</code> into your "
+"articles."
+msgstr ""
+"Manuellement en insérant le shortcode <code>[automatichxmenu]</code> dans "
+"vos articles."
+
+#: automatichxmenu.php:624
+msgid ""
+"Automatically & manually. The shortcode will always have priority over the "
+"automatic menu."
+msgstr ""
+"Automatiquement et manuellement. Le shortcode aura toujours la priorité sur "
+"le menu automatique."
+
+#: automatichxmenu.php:626
+msgid "Numbering titles"
+msgstr "Numérotation des titres"
+
+#: automatichxmenu.php:627
+msgid ""
+"This extension can also allow you to automatically numbering your titles by "
+"adding the corresponding CSS. You can use automatic numbering independently "
+"of the navigation menu integration."
+msgstr ""
+"Cette extension peut également vous permettre de numéroter automatiquement "
+"vos titres en ajoutant le CSS correspondant. Vous pouvez utiliser la "
+"numérotation automatique indépendamment de l’intégration du menu de "
+"navigation."
+
+#: automatichxmenu.php:629
+msgid "Help for translation"
+msgstr "Aide pour la traduction"
+
+#: automatichxmenu.php:630
+msgid ""
+"If you are interested to help me to correct this english translation, go to "
+"plugin page."
+msgstr ""
+"Si vous êtes intéressé pour m’aider à corriger la traduction en anglais, "
+"allez sur la page du plugin."
+
+#: automatichxmenu.php:640 automatichxmenu.php:895
+msgid "Smooth scroll"
+msgstr "Défilement doux"
+
+#: automatichxmenu.php:645 automatichxmenu.php:922
+msgid "To the top"
+msgstr "Vers le haut"
+
+#: automatichxmenu.php:658
+msgid "Button display"
+msgstr "Affichage du bouton"
+
+#: automatichxmenu.php:670
+msgid "Numbers in menu"
+msgstr "Numéros dans le menu"
+
+#: automatichxmenu.php:674
+msgid "Numbers in article"
+msgstr "Numéros dans l’article"
+
+#: automatichxmenu.php:686 automatichxmenu.php:1030
+msgid "Menu title"
+msgstr "Titre du menu"
+
+#: automatichxmenu.php:690
+msgid "Borders"
+msgstr "Bordures"
+
+#: automatichxmenu.php:694 automatichxmenu.php:1148 automatichxmenu.php:1152
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: automatichxmenu.php:717
+msgid "yes"
+msgstr "oui"
+
+#: automatichxmenu.php:718
+msgid "no"
+msgstr "non"
+
+#: automatichxmenu.php:786
+msgid "All"
+msgstr "Tout"
+
+#: automatichxmenu.php:787
+msgid "Pages"
+msgstr "Pages"
+
+#: automatichxmenu.php:788
+msgid "Posts"
+msgstr "Articles"
+
+#: automatichxmenu.php:798
+msgid "Center"
+msgstr "Centré"
+
+#: automatichxmenu.php:799
+msgid "Left"
+msgstr "Gauche"
+
+#: automatichxmenu.php:800
+msgid "Right"
+msgstr "Droite"
+
+#: automatichxmenu.php:808
+msgid "default value"
+msgstr "valeur par défaut"
+
+#: automatichxmenu.php:834
+msgid "Mode"
+msgstr "Mode"
+
+#: automatichxmenu.php:839
+msgid ""
+"If you choose \"Automatic & Shortcode\", shortcode will take precedence over "
+"the automatic menu"
+msgstr ""
+"Si vous choisissez « Automatique & Shortcode », le shortcode aura la "
+"priorité sur le menu automatique"
+
+#: automatichxmenu.php:840 automatichxmenu.php:1052 automatichxmenu.php:1082
+#: automatichxmenu.php:1180 automatichxmenu.php:1204
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: automatichxmenu.php:841
+msgid "Automatic"
+msgstr "Automatique"
+
+#: automatichxmenu.php:842
+msgid "Shortcode only"
+msgstr "Shortcode seulement"
+
+#: automatichxmenu.php:843
+msgid "Automatic & Shortcode"
+msgstr "Automatique et shortcode"
+
+#: automatichxmenu.php:845
+msgid "Titles beginning"
+msgstr "Titres de départ"
+
+#: automatichxmenu.php:850
+msgid "First title level to be displayed in the menu"
+msgstr "Niveau de départ à afficher dans le menu"
+
+#: automatichxmenu.php:851 automatichxmenu.php:864
+msgid "&lt;h1&gt;&lt;/h1&gt;"
+msgstr ""
+
+#: automatichxmenu.php:852 automatichxmenu.php:865
+msgid "&lt;h2&gt;&lt;/h2&gt;"
+msgstr ""
+
+#: automatichxmenu.php:853 automatichxmenu.php:866
+msgid "&lt;h3&gt;&lt;/h3&gt;"
+msgstr ""
+
+#: automatichxmenu.php:854 automatichxmenu.php:867
+msgid "&lt;h4&gt;&lt;/h4&gt;"
+msgstr ""
+
+#: automatichxmenu.php:855 automatichxmenu.php:868
+msgid "&lt;h5&gt;&lt;/h5&gt;"
+msgstr ""
+
+#: automatichxmenu.php:856 automatichxmenu.php:869
+msgid "&lt;h6&gt;&lt;/h6&gt;"
+msgstr ""
+
+#: automatichxmenu.php:858
+msgid "Titles level"
+msgstr "Niveau des titres"
+
+#: automatichxmenu.php:863
+msgid "Maximum level of &lt;hx&gt; tags to be displayed in the menu"
+msgstr "Niveau maximum des balises <hx> à afficher dans le menu"
+
+#: automatichxmenu.php:871
+msgid "Minimum number of titles"
+msgstr "Nombre minimum de titres"
+
+#: automatichxmenu.php:876
+msgid ""
+"Minimum number of titles the article should contain before displaying the "
+"menu"
+msgstr ""
+"Nombre minimum de titres que l’article doit contenir avant d’afficher le menu"
+
+#: automatichxmenu.php:879
+msgid "Where to show"
+msgstr "Où afficher le menu"
+
+#: automatichxmenu.php:884
+msgid "Choose where to show the menu: on post, on page or both"
+msgstr ""
+"Choisissez l’emplacement pour afficher le menu : sur les articles, sur les "
+"pages ou les deux"
+
+#: automatichxmenu.php:886
+msgid "Show on homepage"
+msgstr "Afficher sur la page d’accueil\t"
+
+#: automatichxmenu.php:891
+msgid "Show the menu on the homepage"
+msgstr "Afficher le menu sur la page d’accueil"
+
+#: automatichxmenu.php:899
+msgid "Smooth scroll effect"
+msgstr "Effet \"smooth scroll\""
+
+#: automatichxmenu.php:904
+msgid "Activate an animated scrolling effect"
+msgstr "Activer un effet de défilement animé"
+
+#: automatichxmenu.php:906
+msgid "Speed"
+msgstr "Vitesse"
+
+#: automatichxmenu.php:913
+msgid "Offset"
+msgstr "Décalage"
+
+#: automatichxmenu.php:927
+msgid "Add \"to the top\" links"
+msgstr "Ajouter des liens « vers le haut »"
+
+#: automatichxmenu.php:932
+msgid "Add links near titles to go back to the top of the page"
+msgstr "Ajouter des liens près des titres pour revenir en haut de la page"
+
+#: automatichxmenu.php:934
+msgid "Which pages"
+msgstr "Quelles pages"
+
+#: automatichxmenu.php:939
+msgid "Choose where to add the links"
+msgstr "Choisissez où ajouter les liens"
+
+#: automatichxmenu.php:940
+msgid "Every pages"
+msgstr "Toutes les pages"
+
+#: automatichxmenu.php:941
+msgid "Only pages with nav menu"
+msgstr "Uniquement les pages avec menu de navigation"
+
+#: automatichxmenu.php:943
+msgid "Text of links"
+msgstr "Texte des liens"
+
+#: automatichxmenu.php:950
+msgid "Where to scroll"
+msgstr "Où faire défiler"
+
+#: automatichxmenu.php:955
+msgid "Choose where to scroll"
+msgstr "Choisissez jusqu'où faire défiler"
+
+#: automatichxmenu.php:956
+msgid "To the top of the window"
+msgstr "En haut de la fenêtre"
+
+#: automatichxmenu.php:957
+msgid "To the navigation menu"
+msgstr "Vers le menu de navigation"
+
+#: automatichxmenu.php:958
+msgid "To a custom ID"
+msgstr "Vers un ID personnalisé"
+
+#: automatichxmenu.php:960
+msgid "Custom ID"
+msgstr "ID personnalisé"
+
+#: automatichxmenu.php:973 automatichxmenu.php:1041
+msgid "Alignment"
+msgstr "Alignement"
+
+#: automatichxmenu.php:978
+msgid "You need a width < 100% to see the alignement in action"
+msgstr "Vous avez besoin d’une largeur <100% pour voir l’alignement en action"
+
+#: automatichxmenu.php:980
+msgid "Width"
+msgstr "Largeur"
+
+#: automatichxmenu.php:987
+msgid "Screen width / full width"
+msgstr "Largeur de l’écran / pleine largeur"
+
+#: automatichxmenu.php:992
+msgid "Max width of the windows before menu width swap to 100%."
+msgstr ""
+"Largeur maximale des fenêtres avant que la largeur du menu ne passe à 100%."
+
+#: automatichxmenu.php:994
+msgid "Margin"
+msgstr "Marges"
+
+#: automatichxmenu.php:1001
+msgid "Padding"
+msgstr "Marges intérieures"
+
+#: automatichxmenu.php:1008
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: automatichxmenu.php:1014
+msgid "Shift between levels"
+msgstr "Espace entre les niveaux"
+
+#: automatichxmenu.php:1021
+msgid "Margin between lines"
+msgstr "Marge entre les lignes"
+
+#: automatichxmenu.php:1034
+msgid "Display the title"
+msgstr "Afficher le titre"
+
+#: automatichxmenu.php:1047 automatichxmenu.php:1175 automatichxmenu.php:1199
+msgid "Style"
+msgstr "Style"
+
+#: automatichxmenu.php:1053 automatichxmenu.php:1181 automatichxmenu.php:1205
+msgid "Normal"
+msgstr "Normal"
+
+#: automatichxmenu.php:1054 automatichxmenu.php:1182 automatichxmenu.php:1206
+msgid "Bold"
+msgstr "Gras"
+
+#: automatichxmenu.php:1055 automatichxmenu.php:1183 automatichxmenu.php:1207
+msgid "Italic"
+msgstr "Italique"
+
+#: automatichxmenu.php:1056 automatichxmenu.php:1184 automatichxmenu.php:1208
+msgid "Bold & Italic"
+msgstr "Gras & italique"
+
+#: automatichxmenu.php:1059 automatichxmenu.php:1187 automatichxmenu.php:1211
+msgid "Color"
+msgstr "Couleur"
+
+#: automatichxmenu.php:1067
+msgid "Menu borders"
+msgstr "Bordures du menu"
+
+#: automatichxmenu.php:1071
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: automatichxmenu.php:1077
+msgid "Border style"
+msgstr "Style de bordure"
+
+#: automatichxmenu.php:1083
+msgid "Solid"
+msgstr "Pleine"
+
+#: automatichxmenu.php:1084
+msgid "Dashed"
+msgstr "Tirets"
+
+#: automatichxmenu.php:1085
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: automatichxmenu.php:1086
+msgid "Double"
+msgstr "Double"
+
+#: automatichxmenu.php:1089
+msgid "Border width"
+msgstr "Largeur de bordure"
+
+#: automatichxmenu.php:1096
+msgid "Border radius"
+msgstr "Rayon de bordure"
+
+#: automatichxmenu.php:1105 automatichxmenu.php:1118
+msgid "Collapse CSS"
+msgstr "CSS du menu repliable"
+
+#: automatichxmenu.php:1110
+msgid "Collapse menu"
+msgstr "Menu repliable"
+
+#: automatichxmenu.php:1115
+msgid "Collapse menu items"
+msgstr "Replier les éléments du menu"
+
+#: automatichxmenu.php:1122
+msgid "Button align"
+msgstr "Alignement du bouton"
+
+#: automatichxmenu.php:1127
+msgid "Align to the title"
+msgstr "Aligné à côté du titre"
+
+#: automatichxmenu.php:1128
+msgid "Opposite of the title"
+msgstr "Aligné à l'opposé du titre"
+
+#: automatichxmenu.php:1131
+msgid "Button background color"
+msgstr "Couleur d'arrière-plan du bouton"
+
+#: automatichxmenu.php:1139
+msgid "Button text color"
+msgstr "Couleur du texte du bouton"
+
+#: automatichxmenu.php:1164
+msgid "Active numbering"
+msgstr "Numérotation active"
+
+#: automatichxmenu.php:1169
+msgid "Enable automatic numbering of titles"
+msgstr "Activer la numérotation automatique des titres"
+
+#: automatichxmenu.php:1219
+msgid "Hidden"
+msgstr "Masqué"
+
+#: automatichxmenu.php:1223
+msgid "Version"
+msgstr "Version"
+
+#. Plugin Name of the plugin/theme
+msgid "Automatic Hx Menu"
+msgstr "Automatic Hx Menu"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/automatic-hx-menu/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Creating a menu automatically from the titles of an article"
+msgstr "Création d’un menu automatiquement à partir des titres d’un article"
+
+#. Author of the plugin/theme
+msgid "Julien Crego"
+msgstr "Julien Crego"
+
+#. Author URI of the plugin/theme
+msgid "http://dev.juliencrego.com/automatic-hx-menu/"
+msgstr ""
+
+#~ msgid "Title level"
+#~ msgstr "Niveau des titres"
+
+#~ msgid ""
+#~ "Minimum number of titles the article should contain before displaying the "
+#~ "menu (default = 2)."
+#~ msgstr ""
+#~ "Nombre minimal de titres que l’article devrait contenir avant d’afficher "
+#~ "le menu (par défaut = 2)."
+
+#~ msgid "Save"
+#~ msgstr "Enregistrer"
+
+#~ msgid "Plugin settings"
+#~ msgstr "Paramètres du Plugin"
+
+#~ msgid "Level to show in menu"
+#~ msgstr "Niveau à afficher dans le menu"
+
+#~ msgid ""
+#~ "Maximum level of hx tags to be displayed in the menu (default = 3, h1, h2 "
+#~ "et h3)."
+#~ msgstr ""
+#~ "Niveau maximum des balises hx à afficher dans le menu (par défaut = 3, "
+#~ "h1, h2 et h3)."

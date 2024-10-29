@@ -1,0 +1,70 @@
+/* 
+    Created on : 27 avr. 2017
+    Author     : Julien Crego
+    Author Url : http://dev.juliencrego.com/
+*/
+#automatichxmenu {
+    position:relative;
+    top:-10px; 
+    border:1px dashed #00B7E8;
+    border-radius:5px;
+    padding:10px;
+    margin:0 10px 10px 0;
+    
+    header {
+        font-weight: bold ;
+    }
+
+
+    .ahxm-title-collapsible { 
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        ul {
+            flex-basis: 100%;
+        }
+    }
+    .ahxm-collapsible {
+        input[type="checkbox"] {
+            display: none;
+        }
+        label {
+            display: inline-block;
+            height: 1rem;
+            width: 1rem;
+            font-size: 0.9rem;
+            font-weight: 700;
+            line-height: 1;
+            color: #fff;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: baseline;
+            border-radius: 0.25rem;
+            background-color: #727272;
+            margin: 0 0 0 1rem;
+            cursor: pointer;
+            padding: 0; 
+        }
+        label::before {
+            content: '+';
+        }
+        input[type="checkbox"] ~ ul {
+            display: none;
+        }
+        input[type="checkbox"]:checked ~ label::before {
+            content: '-';
+        }
+        input[type="checkbox"]:checked ~ ul {
+            display: block;
+        }
+    }
+
+}
+
+.automatichxmenu_to_top {
+    text-decoration: none;
+    margin : 0.5rem 0 0 10px;
+    font-size : 1rem ;
+    float: right ;
+}
